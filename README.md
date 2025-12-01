@@ -4,12 +4,12 @@ Kasper Website Template – HTML & CSS & Vanilla js
 A responsive one-page website built by converting the Kasper creative PSD/HTML theme into a real web page using only HTML and CSS and some of javascript, focusing on clean structure and modern layout practices.[1][2]
 ** this is my first template i built it using html ,css and vanilla js
 ## Screenshots
-![Kasper screenshot 1](images/Screenshots/kasper-Screenshot-1.png)
-![Kasper screenshot 2](images/Screenshots/kasper-Screenshot-2.png)
-![Kasper screenshot 3](images/Screenshots/kasper-Screenshot-3.png)
-![Kasper screenshot 4](images/Screenshots/kasper-Screenshot-4.png)
-![Kasper screenshot 5](images/Screenshots/kasper-Screenshot-5.png)
-![Kasper screenshot 6](images/Screenshots/kasper-Screenshot-6.png)
+![Kasper screenshot 1](/images/Screenshots/kasper-Screenshot-1.png)
+![Kasper screenshot 2](/images/Screenshots/kasper-Screenshot-2.png)
+![Kasper screenshot 3](/images/Screenshots/kasper-Screenshot-3.png)
+![Kasper screenshot 4](/images/Screenshots/kasper-Screenshot-4.png)
+![Kasper screenshot 5](/images/Screenshots/kasper-Screenshot-5.png)
+![Kasper screenshot 6](/images/Screenshots/kasper-Screenshot-6.png)
 
 ## Features
 
